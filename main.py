@@ -49,12 +49,7 @@ def check_for_winner(board, player):
         return False
 
 
-# '''
-# Testing: 
-##Testing
-
-
-
+##Testing:
 
 board = create_empty_board()
 print_board(board)
